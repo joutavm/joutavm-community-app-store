@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: joutavm-silly-tavern
+name: Hello World
+tagline: Chat-AI Roleplay
+icon: https://github.com/SillyTavern/SillyTavern/blob/release/public/img/logo.png?raw=true
+category: Development
+version: "1.0.0"
+port: 8000
+description: >-
+  App for cat roleplay
+
+developer: Umbrel
+website: https://github.com/SillyTavern/SillyTavern
+submitter: Joutavm
+submission: https://github.com/joutavm/joutavm-community-app-store
+repo: https://github.com/joutavm/joutavm-community-app-store
+support: https://github.com/joutavm/joutavm-community-app-store/issues
+gallery:
+  - https://private-user-images.githubusercontent.com/18619528/369641394-01a6ae9a-16aa-45f2-8bff-32b5dc587e44.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk0MjMzNDUsIm5iZiI6MTczOTQyMzA0NSwicGF0aCI6Ii8xODYxOTUyOC8zNjk2NDEzOTQtMDFhNmFlOWEtMTZhYS00NWYyLThiZmYtMzJiNWRjNTg3ZTQ0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjEzVDA1MDQwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY0ZTkwNjdkMDU0OTBhZWQ0NmQ5ODcwYjAyZmM0YmVlZjAwMDE0MzE1MTA5NmIzZTM1OTc1YTBkNWM4MzE1ODMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.HzFn8EO0T79kefDhKetglSL-MScnXVVwqd3vvXENyPw
+releaseNotes: >-
+  Add what's new in the latest version of your app here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
