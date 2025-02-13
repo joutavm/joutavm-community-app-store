@@ -1,6 +1,6 @@
 manifestVersion: 1
 id: joutavm-silly-tavern
-name: Hello World
+name: Silly Tavern (stage)
 tagline: Chat-AI Roleplay
 icon: https://github.com/SillyTavern/SillyTavern/blob/release/public/img/logo.png?raw=true
 category: Development
